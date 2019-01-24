@@ -6,3 +6,4 @@ Creating a new branch is quick.
 Creating a new branch is quick AND simple.
 branch manage
 我是主人
+我想要发起一个PR
